@@ -1,1 +1,2 @@
-print('git of main branch')
+print('git of branch')
+print('main')
