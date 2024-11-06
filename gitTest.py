@@ -1,2 +1,1 @@
-print('git of branch')
-print('new ')
+print('git of branch main ')
